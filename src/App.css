@@ -27,6 +27,16 @@
 .App-link {
   color: #61dafb;
 }
+.friend-container{
+  color: coral;
+  background-color: cornsilk;
+  width: 500px;
+  margin: auto;
+  margin-top: 20px;
+  padding: 20px;
+  border: 2px solid #2262ec;
+  border-radius: 10px;
+}
 
 @keyframes App-logo-spin {
   from {
